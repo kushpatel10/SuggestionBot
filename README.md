@@ -4,7 +4,7 @@
 
 ##  This Is A Simple Suggestion Bot! You Can Use It And Feel Free To Star This Repo!
 
-## **This Suggestion Bot is created by Ghoul.#0069**
+## **This Suggestion Bot is created by Ghoul.#0069 & Over|SeeKerツ#5057**
 
 
 
