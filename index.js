@@ -69,7 +69,7 @@ await message.delete();
  }) 
 })
 
-client.login("");
+client.login(Token);
 
 
 
