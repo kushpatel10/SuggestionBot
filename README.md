@@ -4,9 +4,9 @@
 
 ##  This Is A Simple Suggestion Bot! You Can Use It And Feel Free To Star This Repo!
 
-## **This Suggestion Bot is created by Ghoul#2123**
+## **This Suggestion Bot is created by Ghoul#0995**
 
-
+## Bot is still in djs v12 . But can still work because the current issues are fixed . Contact me on discord if you face any issue . 
 
 # Easy set up!
 
