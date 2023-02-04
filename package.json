@@ -1,26 +1,26 @@
 {
-  "name": "moyai",
-  "version": "69.69.69",
-  "description": "A suggestion Bot ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Ghoul.js#8007",
-  "license": "MIT",
-  "dependencies": {
-    "config.json": "0.0.4",
-    "discord.js": "^12.5.1",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+"
-  },
-  "bugs": {
-    "url": "https://github.com/Ascentum/Ascentum/issues"
-  },
-  "homepage": "https://github.com/Ascentum/Ascentum#readme"
+    "name": "moyai",
+    "version": "2",
+    "description": "A suggestion Bot ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Ghoul#0995",
+    "license": "MIT",
+    "dependencies": {
+        "config.json": "0.0.4",
+        "discord.js": "^12.5.1",
+        "express": "^4.17.1",
+        "node-fetch": "^3.3.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+"
+    },
+    "bugs": {
+        "url": "https://github.com/Ascentum/Ascentum/issues"
+    },
+    "homepage": "https://github.com/Ascentum/Ascentum#readme"
 }
